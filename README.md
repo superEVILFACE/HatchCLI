@@ -6,3 +6,8 @@ typer
 ```
 pip install typer
 ```
+
+# Installation
+```
+pip install hatchengine-cli
+```
