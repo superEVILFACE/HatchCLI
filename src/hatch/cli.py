@@ -93,6 +93,6 @@ class Hatch:
         scripts = root / "Scripts"
         scripts.mkdir()
         
-        (scripts / "Init.hsl").write_text(INIT_TEMPLATE, "utf-8")
+        (scripts / "Static.hsl").write_text(STATIC_TEMPLATE, "utf-8")
         
         typer.echo(f"Created Hatch project '{game_title}' successfully.")

@@ -207,7 +207,7 @@ GAME_CONFIG_TEMPLATE = """<gameconfig>
 </gameconfig>
 """
 
-INIT_TEMPLATE = """class Init
+STATIC_TEMPLATE = """class Static
 {
 	GameStart()
 	{
