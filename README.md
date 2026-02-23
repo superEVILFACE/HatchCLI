@@ -1,5 +1,5 @@
 # Hatch CLI
-CLI Tool created for Hatch Game Engine in Python
+CLI Tool created in Python for Hatch Game Engine
 
 # Dependencies
 ```
