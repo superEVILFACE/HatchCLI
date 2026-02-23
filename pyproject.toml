@@ -1,0 +1,11 @@
+[project]
+name = "hatch-cli"
+version = "1.0.0"
+description = "Hatch Game Engine CLI"
+readme = "README.md"
+dependencies = [
+    "typer"
+]
+
+[project.scripts]
+hatch = "hatch.cli:app"
